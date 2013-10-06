@@ -24,7 +24,7 @@
     }
   ],
   "peerDependencies": {
-    "soap": "0.2.x"
+    "soap": "0.3.x"
   },
   "devDependencies": {
       "LiveScript": ">= 1.0.1"
